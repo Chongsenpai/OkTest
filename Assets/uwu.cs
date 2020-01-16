@@ -13,6 +13,7 @@ public class uwu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        repeat
+        repeat:
+        print( "gamer")
     }
 }
