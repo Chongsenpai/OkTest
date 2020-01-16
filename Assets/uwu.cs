@@ -7,13 +7,12 @@ public class uwu : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("ITS TIME TO STOP!!");
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        repeat:
-        print( "gamer")
+        
     }
 }
