@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class uwu : MonoBehaviour
 {
+    [SerializeField] GameObject SpawnObject;
+
     // Start is called before the first frame update
     void Start()
     {
