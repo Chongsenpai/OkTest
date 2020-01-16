@@ -7,10 +7,7 @@ public class uwu : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if uwu.c# exists =
-              delete system32
-        else:
-            still good game
+        Debug.Log("ITS TIME TO STOP!!");
     }
 
     // Update is called once per frame
